@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:async';
 import 'dart:convert';
 
-const request = 'https://api.hgbrasil.com/finance?format=json&key=d8f7a18b';
+const request = ''; // Adicionar chave da hg finance
 
 void main() async {
   runApp(MaterialApp(
