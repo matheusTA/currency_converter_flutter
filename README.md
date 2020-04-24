@@ -1,4 +1,17 @@
-# currency_converter_flutter
+# Currency Converter
+
+> The application for you to make currency conversion!
+
+<h3 align="center">
+  <img alt="Flutter App" 
+    src="https://github.com/matheusTA/currency_converter_flutter/blob/master/screens_shots/Capturar.PNG?raw=true" width="180px"/>
+  <img alt="Flutter app" 
+    src="https://github.com/matheusTA/currency_converter_flutter/blob/master/screens_shots/Capturar-1.PNG?raw=true" width="180px"/>
+</h3>
+
+## Flutter
+
+- [Flutter.dev](https://flutter.dev/)
 
 A new Flutter project.
 
