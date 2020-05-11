@@ -1,9 +1,9 @@
 <h1 align="center">
-  <strong>💰 Currency Converter</strong>
+  <strong>Currency Converter</strong>
 </h1> 
 
 <p align="center">
-💻 The application for you to make currency conversion!
+💰 The application for you to make currency conversion!
 </p> 
 
 ## 🎨 Screens
